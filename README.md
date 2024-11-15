@@ -1,2 +1,1 @@
-ik heb geen ervaring et programeren maar ik verwacht wel ervaring pop te doen
-ik zuig ook veel pik
+Mijn naam is Gokhan Yasin Canpolat, ik ben 17 jaar oud en studeer bij de Bit Academy. Mijn doel is om zowel front-end als back-end development te leren. Op dit moment focus ik mij op het leren van front-end development.
